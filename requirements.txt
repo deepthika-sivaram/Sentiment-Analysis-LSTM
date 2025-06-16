@@ -1,7 +1,10 @@
-numpy
-pandas
-matplotlib
-scikit-learn
-tensorflow
-keras
+torch
+torchinfo
 nltk
+gensim
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+tqdm
